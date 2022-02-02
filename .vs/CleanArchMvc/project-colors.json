@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25b86c54-a9f9-43cb-ab81-0039ba611605": {
+      "ProjectGuid": "25b86c54-a9f9-43cb-ab81-0039ba611605",
+      "DisplayName": "CleanArchMvc.Infra.Data",
+      "ColorIndex": 0
+    },
+    "557be0d1-dcaf-44a7-b941-605804554e7d": {
+      "ProjectGuid": "557be0d1-dcaf-44a7-b941-605804554e7d",
+      "DisplayName": "CleanArchMvc.Domain",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
