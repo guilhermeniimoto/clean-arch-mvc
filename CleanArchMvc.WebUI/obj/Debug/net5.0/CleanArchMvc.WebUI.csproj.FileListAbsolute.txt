@@ -754,3 +754,5 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.pdb
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.genruntimeconfig.cache
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Humanizer.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
