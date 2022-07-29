@@ -20,7 +20,17 @@
       "ProjectGuid": "ea2489d3-da2f-40fc-b1cf-0f2e29ad1996",
       "DisplayName": "CleanArchMvc.WebUI",
       "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d6fb7458-06f3-4161-b999-c1a1a7db14a9": {
+      "ProjectGuid": "d6fb7458-06f3-4161-b999-c1a1a7db14a9",
+      "DisplayName": "CleanArchMvc.Domain.Tests",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

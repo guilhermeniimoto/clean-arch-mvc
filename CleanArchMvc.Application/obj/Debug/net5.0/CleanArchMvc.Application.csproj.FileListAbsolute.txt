@@ -15,7 +15,6 @@ D:\Estudo\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMv
 D:\Estudo\CleanArchMvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.deps.json
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\bin\Debug\net5.0\ref\CleanArchMvc.Application.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Application.pdb
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\bin\Debug\net5.0\CleanArchMvc.Domain.pdb
@@ -28,3 +27,4 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\obj\Debug\net5.0\ref\CleanArchMvc.Application.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\obj\Debug\net5.0\CleanArchMvc.Application.pdb
+D:\Estudo\clean-arch-mvc\CleanArchMvc.Application\obj\Debug\net5.0\refint\CleanArchMvc.Application.dll

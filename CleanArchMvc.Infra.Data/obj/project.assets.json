@@ -2452,7 +2452,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "acQWsuXt+4BZ6aWhOizwiul4ZbEGAJdEI+2WqK1Ix8PPYsxAf1jdNyDlETVEDNv2U+7cbMeJzRnj6VSH5TALTg==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -2490,7 +2490,7 @@
       ]
     },
     "System.Collections.Specialized/4.3.0": {
-      "sha512": "Epx8PoVZR0iuOnJJDzp7pWvdfMMOAvpUo95pC4ScH2mJuXkKA2Y4aR3cG9qt2klHgSons1WFh4kcGW7cSXvrxg==",
+      "sha512": "m7Op1LxxGfb/rU1oxsTRekAs/NTlY58C8HqP/SCkVuW2ddAliIx2J90pl5jDQQR+85/49wzl8kI33XIVwSLERA==",
       "type": "package",
       "path": "system.collections.specialized/4.3.0",
       "files": [
@@ -2528,7 +2528,7 @@
       ]
     },
     "System.ComponentModel/4.3.0": {
-      "sha512": "VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
+      "sha512": "YYpkXvz13SaQgF7xVNLzhYx67wBIsr5HnlIp6JXSimreV1WCffaFKMYqjSOxR8xbOnJ/L5b/yEjVuG2rzuh5Ow==",
       "type": "package",
       "path": "system.componentmodel/4.3.0",
       "files": [
@@ -2676,7 +2676,7 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+      "sha512": "BfSB9VIUoJ0fmqxVFryAfiM0rdV8caLYVGtfYEpMiPNyr72fOjGe3zoZDfNLkEEEmdfqaZNbO8USIRg9yVUYpQ==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
@@ -2714,11 +2714,12 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "JigTmTrEyfdpv03diSscyjZObcfFg/Dn+bWGF2rVALG8kJuDW0zYQA+ihZQ326etBy5x+5lhtmXr3ez/bvOmfQ==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3068,7 +3069,7 @@
       ]
     },
     "System.Dynamic.Runtime/4.3.0": {
-      "sha512": "SNVi1E/vfWUAs/WYKhE9+qlS6KqK0YVhnlT0HQtr8pMIA8YX3lwy3uPMownDwdYISBdmAF/2holEIldVp85Wag==",
+      "sha512": "tpIEPjYTWTpFWYmuQ4Zhz/z157uGtlnAvYdyatgVvTWjapKCU66F2I1P7Q+U6arzBldvamlVj9bTSE/LIFrL7A==",
       "type": "package",
       "path": "system.dynamic.runtime/4.3.0",
       "files": [
@@ -4612,7 +4613,7 @@
       ]
     },
     "System.Runtime.Serialization.Formatters/4.3.0": {
-      "sha512": "KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
+      "sha512": "1vXSZGkdnHJsASy7TYUpt7WN5boeAakeHUogdsDvWr1pNBH1yQGJ9Z+iN0uOAKz2M8KmSOrvbTW5yB46crgI8Q==",
       "type": "package",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
@@ -4699,7 +4700,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.3.0": {
-      "sha512": "Wz+0KOukJGAlXjtKr+5Xpuxf8+c8739RI1C+A2BoQZT+wMCCoMDDdO8/4IRHfaVINqL78GO8dW8G2lW/e45Mcw==",
+      "sha512": "mkk1khe+2IPP3qzgbLf6a1DS71F8AgeOArjp8o5Pf7gMjiNq/s6wNc5LTmn1HMWjjYwxQxlOiq4ZHxIcRVJPDA==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.3.0",
       "files": [
@@ -5646,11 +5647,12 @@
       ]
     },
     "System.Xml.XmlDocument/4.3.0": {
-      "sha512": "lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
+      "sha512": "hyx5TBPHgk3MqyALRSEKH1NbFHS1rJFQYKxjvapvld2eWUz0vBwYdo7llAx9d7dgl2k3O6QXSH6V3YsMh/gRLQ==",
       "type": "package",
       "path": "system.xml.xmldocument/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5850,7 +5852,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
