@@ -116,7 +116,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc.Domain.Tests.runtimeconfig.json
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc.Domain.Tests.runtimeconfig.dev.json
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc.Domain.Tests.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\ref\CleanArchMvc.Domain.Tests.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\CleanArchMvc.Domain.Tests.pdb
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\FluentAssertions.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -212,3 +211,4 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\ref\CleanArchMvc.Domain.Tests.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.pdb
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\CleanArchMvc.Domain.Tests.genruntimeconfig.cache
+D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain.Tests\obj\Debug\net5.0\refint\CleanArchMvc.Domain.Tests.dll

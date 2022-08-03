@@ -369,7 +369,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.runtimeconfig.json
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.runtimeconfig.dev.json
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.pdb
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -462,7 +461,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Exte
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -488,8 +486,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Exte
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -588,7 +584,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Reflect
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.Reader.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
@@ -739,8 +734,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\Cle
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.input.cache
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.output.cache
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorCoreGenerate.cache
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -756,3 +749,15 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.genruntimeconfig.cache
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Humanizer.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMapper.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\refint\CleanArchMvc.WebUI.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
