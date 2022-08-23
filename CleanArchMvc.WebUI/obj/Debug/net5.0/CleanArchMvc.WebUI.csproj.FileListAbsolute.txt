@@ -734,7 +734,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\staticwebassets\Cle
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.input.cache
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.TagHelpers.output.cache
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\CleanArchMvc.WebUI.RazorCoreGenerate.cache
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
@@ -761,3 +760,13 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Product
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Create.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
