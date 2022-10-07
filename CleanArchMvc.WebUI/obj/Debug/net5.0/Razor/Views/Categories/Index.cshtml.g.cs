@@ -19,8 +19,15 @@ using CleanArchMvc.WebUI;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\Views\_ViewImports.cshtml"
+using CleanArchMvc.WebUI.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5def4bebd148481ee24f841e70252a9dc2c8c21a", @"/Views/Categories/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"53b57736c7fe85f915f49e5bd9d9419476a02542", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3fe22d91a4d2cc2b7547cc3e52095e14a117113f", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Categories_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<CleanArchMvc.Application.DTOs.CategoryDTO>>
     #nullable disable
@@ -77,7 +84,7 @@ using CleanArchMvc.WebUI;
 #line hidden
 #nullable disable
             WriteLiteral("</h2>\r\n</div>\r\n<hr />\r\n<div class=\"row\">\r\n    <div class=\"col-md-12\">\r\n        <div>\r\n            <div class=\"pull-left\">\r\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5def4bebd148481ee24f841e70252a9dc2c8c21a7006", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5def4bebd148481ee24f841e70252a9dc2c8c21a7194", async() => {
                 WriteLiteral("\r\n                    <span title=\"Register New\" class=\"fas fa-plus\"></span> Register New\r\n                ");
             }
             );
@@ -119,7 +126,7 @@ using CleanArchMvc.WebUI;
 #line hidden
 #nullable disable
             WriteLiteral("\r\n                    </td>\r\n                    <td>\r\n                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5def4bebd148481ee24f841e70252a9dc2c8c21a9621", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5def4bebd148481ee24f841e70252a9dc2c8c21a9809", async() => {
                 WriteLiteral("\r\n                            <span class=\"fas fa-edit\">Edit</span>\r\n                        ");
             }
             );
@@ -152,7 +159,7 @@ using CleanArchMvc.WebUI;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n\r\n                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5def4bebd148481ee24f841e70252a9dc2c8c21a12059", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5def4bebd148481ee24f841e70252a9dc2c8c21a12247", async() => {
                 WriteLiteral("\r\n                            <span class=\"fas fa-search\">Details</span>\r\n                        ");
             }
             );
@@ -185,7 +192,7 @@ using CleanArchMvc.WebUI;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n\r\n                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5def4bebd148481ee24f841e70252a9dc2c8c21a14506", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5def4bebd148481ee24f841e70252a9dc2c8c21a14694", async() => {
                 WriteLiteral("\r\n                            <span class=\"fas fa-trash-alt\">Delete</span>\r\n                        ");
             }
             );

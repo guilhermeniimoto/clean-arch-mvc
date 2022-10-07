@@ -386,8 +386,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspN
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -471,8 +469,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Exte
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -770,3 +766,11 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Product
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
