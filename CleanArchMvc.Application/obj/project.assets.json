@@ -1,8 +1,8 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "AutoMapper/11.0.1": {
+    "net6.0": {
+      "AutoMapper/12.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0"
@@ -14,7 +14,7 @@
           "lib/netstandard2.1/AutoMapper.dll": {}
         }
       },
-      "MediatR/10.0.1": {
+      "MediatR/11.0.0": {
         "type": "package",
         "dependencies": {
           "MediatR.Contracts": "1.0.1"
@@ -46,7 +46,7 @@
       },
       "CleanArchMvc.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/CleanArchMvc.Domain.dll": {}
         },
@@ -57,32 +57,32 @@
     }
   },
   "libraries": {
-    "AutoMapper/11.0.1": {
-      "sha512": "WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
+    "AutoMapper/12.0.1": {
+      "sha512": "hvV62vl6Hp/WfQ24yzo3Co9+OPl8wH8hApwVtgWpiAynVJkUcs7xvehnSftawL8Pe8FrPffBRM3hwzLQqWDNjA==",
       "type": "package",
-      "path": "automapper/11.0.1",
+      "path": "automapper/12.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "automapper.11.0.1.nupkg.sha512",
+        "automapper.12.0.1.nupkg.sha512",
         "automapper.nuspec",
         "icon.png",
         "lib/netstandard2.1/AutoMapper.dll",
         "lib/netstandard2.1/AutoMapper.xml"
       ]
     },
-    "MediatR/10.0.1": {
-      "sha512": "vnjbk4giDJzJelh34Ygt0eorApCKrRFB7j0pauFPY1oxfO3cEZ7FugBrIOjCM76SDGTOmPFfbfmVnz1t3iFrGA==",
+    "MediatR/11.0.0": {
+      "sha512": "8klzVGZQiA2oxZRzQFBZbdPD/IQUm9RYtfiyTDKhxDQ99Gi93+GXt1ZJjH2D7Lh7ZFHCv5XdkwbmfHEQBCatPg==",
       "type": "package",
-      "path": "mediatr/10.0.1",
+      "path": "mediatr/11.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "gradient_128x128.png",
         "lib/netstandard2.1/MediatR.dll",
         "lib/netstandard2.1/MediatR.xml",
-        "mediatr.10.0.1.nupkg.sha512",
+        "mediatr.11.0.0.nupkg.sha512",
         "mediatr.nuspec"
       ]
     },
@@ -178,10 +178,10 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "AutoMapper >= 11.0.1",
+    "net6.0": [
+      "AutoMapper >= 12.0.1",
       "CleanArchMvc.Domain >= 1.0.0",
-      "MediatR >= 10.0.1"
+      "MediatR >= 11.0.0"
     ]
   },
   "packageFolders": {
@@ -208,7 +208,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -216,8 +216,8 @@
         "https://nugetsp.lab.novitech.net.br/nuget/": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
             "D:\\Estudo\\clean-arch-mvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
               "projectPath": "D:\\Estudo\\clean-arch-mvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
@@ -232,16 +232,16 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
-            "version": "[11.0.1, )"
+            "version": "[12.0.1, )"
           },
           "MediatR": {
             "target": "Package",
-            "version": "[10.0.1, )"
+            "version": "[11.0.0, )"
           }
         },
         "imports": [

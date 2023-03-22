@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "coverlet.collector/3.0.3": {
         "type": "package",
         "build": {
@@ -1712,7 +1712,7 @@
       },
       "CleanArchMvc.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/CleanArchMvc.Domain.dll": {}
         },
@@ -6040,7 +6040,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "CleanArchMvc.Domain >= 1.0.0",
       "FluentAssertions >= 6.4.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
@@ -6073,7 +6073,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -6081,8 +6081,8 @@
         "https://nugetsp.lab.novitech.net.br/nuget/": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {
             "D:\\Estudo\\clean-arch-mvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj": {
               "projectPath": "D:\\Estudo\\clean-arch-mvc\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj"
@@ -6097,8 +6097,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "FluentAssertions": {
             "target": "Package",

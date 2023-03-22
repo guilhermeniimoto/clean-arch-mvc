@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JCqu+/LTVX7SM/tsoFKiQoXx6qi/oBeRzl1Pq7MT8euYckTakLM5hUK82AUvTwbNTvlMfegTZoSZ+MLSOZiRgg==",
+  "dgSpecHash": "2dYKVjDS3T1dWDR5TMfD29IzwQUudxM7VgB0fxyZKLuU/jbaCMCeadjiXtXaSRnI9zCdapgC384O9aV29oo4cQ==",
   "success": true,
   "projectFilePath": "D:\\Estudo\\clean-arch-mvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
   "expectedPackageFiles": [
