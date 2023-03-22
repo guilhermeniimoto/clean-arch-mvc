@@ -1,13 +1,16 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-using CleanArchMvc.Application.DTOs;
+﻿using CleanArchMvc.Application.DTOs;
 using CleanArchMvc.Application.Interfaces;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CleanArchMvc.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class CategoriesController : ControllerBase
     {
         private readonly ICategoryService _categoryService;
@@ -25,7 +28,6 @@ namespace CleanArchMvc.API.Controllers
             {
                 return NotFound("Categories not found");
             }
-
             return Ok(categories);
         }
 
@@ -33,39 +35,37 @@ namespace CleanArchMvc.API.Controllers
         public async Task<ActionResult<CategoryDTO>> Get(int id)
         {
             var category = await _categoryService.GetById(id);
-
             if (category == null)
             {
                 return NotFound("Category not found");
             }
-
             return Ok(category);
         }
 
         [HttpPost]
-        public async Task<ActionResult> Post([FromBody] CategoryDTO categoryDTO)
+        public async Task<ActionResult> Post([FromBody] CategoryDTO categoryDto)
         {
-            if (categoryDTO == null)
+            if (categoryDto == null)
                 return BadRequest("Invalid Data");
 
-            await _categoryService.Add(categoryDTO);
+            await _categoryService.Add(categoryDto);
 
-            return new CreatedAtRouteResult("GetCategory", new { id = categoryDTO.Id },
-                categoryDTO);
+            return new CreatedAtRouteResult("GetCategory", new { id = categoryDto.Id },
+                categoryDto);
         }
 
         [HttpPut]
-        public async Task<ActionResult> Put(int id, [FromBody] CategoryDTO categoryDTO)
+        public async Task<ActionResult> Put(int id, [FromBody] CategoryDTO categoryDto)
         {
-            if (id != categoryDTO.Id)
+            if (id != categoryDto.Id)
                 return BadRequest();
 
-            if (categoryDTO == null)
+            if (categoryDto == null)
                 return BadRequest();
 
-            await _categoryService.Update(categoryDTO);
+            await _categoryService.Update(categoryDto);
 
-            return Ok(categoryDTO);
+            return Ok(categoryDto);
         }
 
         [HttpDelete("{id:int}")]

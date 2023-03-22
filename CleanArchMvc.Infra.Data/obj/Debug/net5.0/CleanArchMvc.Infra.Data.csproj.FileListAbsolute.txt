@@ -30,4 +30,4 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.I
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.pdb
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
-D:\Estudo\clean-arch-mvc\CleanArchMvc.Infra.Data\obj\Debug\net5.0\refint\CleanArchMvc.Infra.Data.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.Infra.Data\bin\Debug\net5.0\ref\CleanArchMvc.Infra.Data.dll

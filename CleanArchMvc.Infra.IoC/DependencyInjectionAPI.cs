@@ -19,7 +19,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace CleanArchMvc.Infra.IoC
 {
-    public static class DependecyInjectionAPI
+    public static class DependencyInjectionAPI
     {
         public static IServiceCollection AddInfrastructureAPI(this IServiceCollection services, IConfiguration configuration)
         {

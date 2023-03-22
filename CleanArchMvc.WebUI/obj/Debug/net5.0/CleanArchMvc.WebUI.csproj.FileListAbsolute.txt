@@ -664,7 +664,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityM
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
@@ -751,7 +750,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extension
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
-D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\refint\CleanArchMvc.WebUI.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Contracts.dll
@@ -774,3 +772,10 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.Extension
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
 D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\CleanArchMvc.WebUI.StaticWebAssets.xml
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\ref\CleanArchMvc.WebUI.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.WebUI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll

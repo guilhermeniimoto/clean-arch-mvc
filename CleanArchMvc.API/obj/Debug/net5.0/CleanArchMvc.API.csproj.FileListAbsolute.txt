@@ -34,7 +34,6 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityMod
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Newtonsoft.Json.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -76,7 +75,9 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.API\obj\Debug\net5.0\staticwebassets\Clean
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\obj\Debug\net5.0\CleanArchMvc.API.RazorTargetAssemblyInfo.cache
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\obj\Debug\net5.0\CleanArchMvc.API.csproj.CopyComplete
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\obj\Debug\net5.0\CleanArchMvc.API.dll
-D:\Estudo\clean-arch-mvc\CleanArchMvc.API\obj\Debug\net5.0\refint\CleanArchMvc.API.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\obj\Debug\net5.0\CleanArchMvc.API.pdb
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\obj\Debug\net5.0\CleanArchMvc.API.genruntimeconfig.cache
 D:\Estudo\clean-arch-mvc\CleanArchMvc.API\obj\Debug\net5.0\ref\CleanArchMvc.API.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\CleanArchMvc.API.StaticWebAssets.xml
+D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\ref\CleanArchMvc.API.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

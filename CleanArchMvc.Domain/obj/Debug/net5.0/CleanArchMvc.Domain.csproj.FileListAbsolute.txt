@@ -21,4 +21,4 @@ D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domai
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain\obj\Debug\net5.0\ref\CleanArchMvc.Domain.dll
 D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain\obj\Debug\net5.0\CleanArchMvc.Domain.pdb
-D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain\obj\Debug\net5.0\refint\CleanArchMvc.Domain.dll
+D:\Estudo\clean-arch-mvc\CleanArchMvc.Domain\bin\Debug\net5.0\ref\CleanArchMvc.Domain.dll
